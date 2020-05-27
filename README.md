@@ -1,2 +1,2 @@
 # 1-repo
-my repo
+my awesome repo
